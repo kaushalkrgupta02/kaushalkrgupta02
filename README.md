@@ -61,7 +61,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kaushalkrgupta02&hide_border=true&theme=default" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaushalkrgupta02&theme=default" height="160"/>
+  <img src="https://raw.githubusercontent.com/kaushalkrgupta02/kaushalkrgupta02/main/profile-summary-card-output/default/2-most-commit-language.svg" height="160"/>
 </p>
 
 ---
