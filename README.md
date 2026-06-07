@@ -66,21 +66,6 @@
 
 ---
 
-### 📌 Featured projects
-
-<p align="center">
-  <a href="https://github.com/kaushalkrgupta02/AI-Text-summarizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaushalkrgupta02&repo=AI-Text-summarizer&hide_border=true"/>
-  </a>
-  <a href="https://github.com/kaushalkrgupta02/Bharat-Intern-Data-Science">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaushalkrgupta02&repo=Bharat-Intern-Data-Science&hide_border=true"/>
-  </a>
-</p>
-
-> 💡 **Tip:** Also check out [Nightly - Venue Management System](#), [Attendance Manager](#), and [CutTheLink Bot](#) in my repositories!
-
----
-
 ### 💡 Learn something new today
 
 <!-- DAILY-FACT:START -->
