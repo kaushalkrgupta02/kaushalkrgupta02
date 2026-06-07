@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&width=500&lines=Hi+I'm+Kaushal+Kumar+Gupta+%F0%9F%91%8B;Backend+%26+Cloud+Engineer;AI+%2F+GenAI+Builder;Final+Year+CSE+%40+SMVDU)](https://git.io/typing-svg)
 
 ### About me
-- 🎓 Final year B.Tech CSE at SMVDU (CGPA: 8.05) — graduating May 2026
+- 🎓 B.Tech CSE at SMVDU Katra, J&K
 - 🛠️ Backend Engineer with experience in **FastAPI, Django, Node.js** and cloud platforms
 - 🤖 Building GenAI-powered tools — LangChain, CrewAI, LLM APIs
-- ☁️ Exploring Cloud Architecture — AWS Lambda, DynamoDB, GCP
+- ☁️ Exploring Cloud Architecture — AWS Lambda, DynamoDB, GCP Cloud Data Services
 - 🏆 2× Smart India Hackathon Grand Finalist & Runner-Up (2023, 2024)
 - 🏅 Schneider Electric India Foundation Scholar
 - 📍 Bihiya, Bihar, India
@@ -61,7 +61,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kaushalkrgupta02&hide_border=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalkrgupta02&layout=compact&hide_border=true&theme=default" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaushalkrgupta02&theme=default" height="160"/>
 </p>
 
 ---
