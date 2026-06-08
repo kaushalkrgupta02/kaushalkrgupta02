@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&width=500&lines=Hi+I'm+Kaushal+Kumar+Gupta+%F0%9F%91%8B;Backend+%26+Cloud+Engineer;AI+%2F+GenAI+Builder;Final+Year+CSE+%40+SMVDU)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&width=500&lines=Hi+I'm+Kaushal+Kumar+Gupta+%F0%9F%91%8B;Backend+%26+Cloud+Engineer;AI+%2F+GenAI+Builder)](https://git.io/typing-svg)
 
 ### About me
 - 🎓 B.Tech CSE at SMVDU Katra, J&K
