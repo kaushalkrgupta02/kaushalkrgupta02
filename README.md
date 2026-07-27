@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&width=500&lines=Hi+I'm+Kaushal+Kumar+Gupta+%F0%9F%91%8B;Backend+%26+Cloud+Engineer;AI+%2F+GenAI+Builder)](https://git.io/typing-svg)
 
 ### About me
+- 💼 software engineer associate @Accenture, Pune MH 
 - 🎓 B.Tech CSE at SMVDU Katra, J&K
 - 🛠️ Backend Engineer with experience in **FastAPI, Django, Node.js** and cloud platforms
 - 🤖 Building GenAI-powered tools — LangChain, CrewAI, LLM APIs
